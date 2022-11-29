@@ -66,7 +66,7 @@ img {
   align-items: center;
 }
 
-.nav__logo {
+.logo {
   font-family: "Raleway", sans-serif;
   color: var(--third-title-color);
   font-size: 26px;
@@ -77,24 +77,24 @@ img {
   display: block;
 }
 
-.nav__logo--right {
+.logo--right {
   margin-right: 93px;
 }
 
-.nav__logo--white {
+.logo--white {
   color: var(--main-title-color);
 }
 
-.nav__logo--bottom {
+.logo--bottom {
   margin-bottom: 20px;
 }
 
-.nav__logo--black {
+.logo--black {
   color: var(--logo-text-color);
 }
 
-.nav__logo:focus,
-.nav__logo:active {
+.logo:focus,
+.logo:active {
   font-size: 26px;
   font-weight: 700;
 }
