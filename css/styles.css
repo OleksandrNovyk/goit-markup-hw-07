@@ -367,11 +367,6 @@ img {
   padding-bottom: 94px;
 }
 
-.section-projects {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
-
 /*<!--Наша команда-->*/
 
 .section-team {
@@ -423,7 +418,7 @@ img {
   fill: var(--button-primary-color);
 }
 
-.team-position {
+.team-name__position {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.18;
@@ -506,6 +501,11 @@ img {
 /* <!--End of Постійні клієнти--> */
 
 /* <!--P O R T F O L I O--> */
+
+.section-projects {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
 
 .buttons-set {
   display: flex;
